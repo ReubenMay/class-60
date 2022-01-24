@@ -1,0 +1,27 @@
+#myapp{
+    height: 1000px;
+    background-color: blue;
+    width: 100%;
+    text-align: center;
+}
+.line{
+    width: 100px;
+    background-color:yellow;
+    height: 10px;
+    margin: 8px auto;
+}
+#game{
+    height: 1000px;
+    background-color: red;
+    width: :100px;
+    text-align: center;
+}
+img:hover{
+    transform: scale(0.9)
+}
+#chat{
+  height: 1000px;
+    background-color: purple;
+    width: 100%;
+    text-align: center;  
+}
